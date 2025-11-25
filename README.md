@@ -12,5 +12,11 @@ This is a simple Java application built using Maven and Jenkins.
 2. Configured Maven in Jenkins.
 3. Ran a freestyle job to build the project successfully.
 
-## Output
-See build_success.png for the console output.
+
+## Outcome
+The project was built successfully using Jenkins and Maven.
+
+![Build Success](build_success_photo.jpg)
+(build_success_photo1.jpg)
+
+**Note:** Due to hardware constraints on my current workstation, the evidence is provided as a clear photo of the screen rather than a digital screenshot.
