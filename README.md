@@ -17,6 +17,6 @@ This is a simple Java application built using Maven and Jenkins.
 The project was built successfully using Jenkins and Maven.
 
 ![Build Success](build_success_photo.jpg)
-(build_success_photo1.jpg)
+(Build_success_photo2.jpg)
 
 **Note:** Due to hardware constraints on my current workstation, the evidence is provided as a clear photo of the screen rather than a digital screenshot.
